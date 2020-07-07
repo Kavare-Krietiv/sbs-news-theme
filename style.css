@@ -1,0 +1,20 @@
+.navigation{
+    border-top: 1px solid #E41321;
+    border-bottom: 1px solid #E41321;
+}
+
+.nav-link{
+    border-right: 1px solid #E3E3E2;
+    color: #ffffff;
+    font-size: 13px;
+    padding: 10px;
+}
+
+.nav-link:hover{
+    background-color: #E41321;
+    color: #ffffff;
+}
+
+.nav-link a:hover{
+    color: #ffffff;
+}
