@@ -77,3 +77,27 @@
     font-size: 13px;
     text-decoration: none;
 }
+.about-news-highlights-read-more{
+    background-color: #E3E3E2;
+ }
+
+.about-news-highlights-read-more a{
+    color: #70B62E;
+    font-size: 13px;
+}
+
+.about-news-highlights-content{
+    font-size: 13px;
+}
+
+.about-news-highlights-title{
+    font-size: 13px;
+}
+
+.post-user{
+    color: #70B62E;
+}
+
+.post-time{
+    color: #70B62E;
+}
