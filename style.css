@@ -108,10 +108,27 @@
 }
 
 .contact-section{
-    background: #000000 url("assests/ContactForm_Image.png") no-repeat right center;
+    /*background: #000000 url("assests/ContactForm_Image.png") no-repeat right center;*/
     border-bottom:  5px solid #ffffff;
-    /*background: url('assests/ContactForm_Image.png');*/
-    /*background-repeat: no-repeat;*/
-    /*background-position: right center;*/
-    /*background-color: #000000;*/
+    background: url('assests/ContactForm_Image.png');
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-color: #000000;
+    background-size: 50% auto;
+}
+
+.social-media-icon{
+    padding: 10px;
+    border: 1px solid #E3E3E2;
+    border-radius: 200%;
+}
+
+.social-media a{
+    color: #E3E3E2;
+    margin: 10px;
+}
+
+.social-media a:hover{
+    color: #70B62E;
+    transform: scale(1.2);
 }
