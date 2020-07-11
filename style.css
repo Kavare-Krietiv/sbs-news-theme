@@ -106,3 +106,12 @@
     background-color: #E3E3E2;
     padding: 20px;
 }
+
+.contact-section{
+    background: #000000 url("assests/ContactForm_Image.png") no-repeat right center;
+    border-bottom:  5px solid #ffffff;
+    /*background: url('assests/ContactForm_Image.png');*/
+    /*background-repeat: no-repeat;*/
+    /*background-position: right center;*/
+    /*background-color: #000000;*/
+}
