@@ -8,10 +8,17 @@
 }
 
 .nav-link{
+    margin: 20px;
+    /*border-right: 10px solid transparent;*/
+    /*padding: 15px;*/
+    /*border-image: url(assests/Seperator.png) 50 round;*/
     border-right: 1px solid #E3E3E2;
+    /*background: url('assests/Seperator.png') no-repeat right;*/
     color: #ffffff;
     font-size: 13px;
-    padding: 10px;
+    /*padding-right: 20px;*/
+    /*padding-left: 20px;*/
+    /*display: block;*/
 }
 
 .nav-link:hover{
