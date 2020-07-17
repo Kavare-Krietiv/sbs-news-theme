@@ -1,3 +1,7 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
 .navigation{
     border-top: 1px solid #E41321;
     border-bottom: 1px solid #E41321;
@@ -74,7 +78,7 @@
 }
 
 .about-text{
-    font-size: 13px;
+    font-size: 12px;
 }
 
 .about-news{
