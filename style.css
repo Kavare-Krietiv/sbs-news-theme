@@ -131,8 +131,12 @@
     padding-bottom:50px;
 }
 
+.about-news a{
+    font-weight: bold;
+}
+
 .about-news-title{
-    margin-top: 40px;
+    /*margin-top: 50px;*/
 }
 
 .habari-links a{
